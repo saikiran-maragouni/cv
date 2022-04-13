@@ -1,0 +1,30 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  background-color: inherit;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.tt {
+  border-style: inset;
+  border-color: grey;
+  width: 30%;
+}
+th,td{
+  padding: 3px;
+}
+
+h1 {
+  color: #5584AC;
+  font-style: oblique;
+}
+
+h3 {
+  color: #66BFBF
+}
